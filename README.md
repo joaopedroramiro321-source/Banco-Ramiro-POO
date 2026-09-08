@@ -7,7 +7,7 @@ Para fixar o conteúdo na prática, desenvolvi um pequeno sistema bancário em P
  ✅ Saque
  ✅ Consulta de saldo
 No desenvolvimento, apliquei conceitos fundamentais de POO:
-🔹 Classes e Objetos: a classe Conta funciona como um "molde", e cada conta criada é uma instância (objeto) desse molde
+ 🔹 Classes e Objetos: a classe Conta funciona como um "molde", e cada conta criada é uma instância (objeto) desse molde
  🔹 Encapsulamento: os atributos são privados (__numero, __saldo, etc.), acessados apenas através de métodos get/set, protegendo os dados da conta
  🔹 Métodos: ações como depositar(), sacar() e extrato() manipulam o estado do objeto de forma controlada
  🔹 Interface com o usuário: um menu interativo no terminal conecta a lógica de back-end às escolhas do usuário
